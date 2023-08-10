@@ -1,0 +1,24 @@
+{
+  "name": "metaobject",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Metaobject for testing",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joniborda/metaobject.git"
+  },
+  "author": "Jonathan Borda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joniborda/metaobject/issues"
+  },
+  "homepage": "https://github.com/joniborda/metaobject#readme",
+  "dependencies": {
+    "@outsmartly/metaobjects": "^0.0.22"
+  }
+}
